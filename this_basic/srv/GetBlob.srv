@@ -1,0 +1,5 @@
+# request a blob (left, right, middle, largest)
+
+string type
+---
+cmvision/Blob blob

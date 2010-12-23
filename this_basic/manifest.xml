@@ -1,0 +1,27 @@
+<package>
+  <description brief="this_basic">
+
+     this_basic
+
+  </description>
+  <author>Aaron Parker</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/this_basic</url>
+  <depend package="roscpp"/>
+  <depend package="rospy"/>
+  <depend package="base_planner_cu"/>
+  <depend package="goal_server_cu"/>
+  <depend package="localization_cu"/>
+  <depend package="visualization_cu"/>
+  <depend package="hokuyo_listener_cu"/>
+  <depend package="irobot_create_cu"/>
+  <depend package="irobot_create_rustic"/>
+  <depend package="mapper_cu"/>
+
+  <depend package="crustcrawler_arm"/>
+  <depend package="cmvision"/>
+  <depend package="usb_camera_node"/>
+</package>
+
+
